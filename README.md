@@ -64,5 +64,8 @@ project/
 
 ## Output Images
 
+### Screenshot 1 (Single input)
 ![Screenshot 1](https://github.com/mdsadanfuzail/Comment-Categorization-and-Reply-Assistant-Tool/blob/main/output_images/Screenshot%201.png)
+
+### Screenshot 2 (CSV file input)
 ![Screenshot 2](https://github.com/mdsadanfuzail/Comment-Categorization-and-Reply-Assistant-Tool/blob/main/output_images/Screenshot%202.png)

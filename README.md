@@ -61,3 +61,8 @@ project/
 
 - The dataset is manually created using AI with set of 500+ comments.
 - The Gradio UI runs locally.
+
+## Output Images
+
+![Screenshot 1](https://github.com/mdsadanfuzail/Comment-Categorization-and-Reply-Assistant-Tool/blob/main/output_images/Screenshot%201.png)
+![Screenshot 2](https://github.com/mdsadanfuzail/Comment-Categorization-and-Reply-Assistant-Tool/blob/main/output_images/Screenshot%202.png)

@@ -41,7 +41,7 @@ project/
 2. **Run the script**:
 
    ```bash
-   python comment_classifier.py
+   python app.py
    ```
 
 4. Open the Gradio interface URL (usually `http://127.0.0.1:7860`) in your browser.

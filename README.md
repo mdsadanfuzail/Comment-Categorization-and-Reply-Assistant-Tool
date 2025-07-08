@@ -17,17 +17,17 @@ This tool categorizes user comments  into one of eight categories: Praise, Suppo
 
 ```
 project/
-├── data/                            
-│   ├── comments_dataset.csv                      
-│   ├── test.csv
-├── app.py                   
-├── data_loader.py           
-├── model.py                 
-├── response_templates.py      
-├── text_preprocess.py
-├── ui.py
-├── README.md            
-└── requirements.txt      
+├── data/                      # Folder containing dataset and test      
+│   ├── comments_dataset.csv   # dataset                   
+│   ├── test.csv               # test 
+├── app.py                     # Main Entry-point
+├── data_loader.py             # python module for loading dataset
+├── model.py                   # python module for the model training and prediction logic
+├── response_templates.py      # Contains predefined reply templates for each comment category 
+├── text_preprocess.py         # python module for text preprocessing
+├── ui.py                      # python module for User Interface
+├── README.md                  # Documentation
+└── requirements.txt           # Required dependencies
 ```
 
 ## How to Run

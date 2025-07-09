@@ -1,7 +1,7 @@
 from pathlib import Path
 import pandas as pd
 
-BASE_DIR = Path(__file__).resolve().parent  # adjust as needed
+BASE_DIR = Path(__file__).resolve().parent
 
 DATA_PATH = BASE_DIR / "data" / "comments_dataset.csv"
 
